@@ -5,9 +5,41 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-color: deepskyblue;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.top_heading{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: thistle;
+  text-align: center;
+}
+.name_print{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: violet;
+  text-align: center;
+}
+span{
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 550px;
+}
+.ordered_list{
+  text-align: none;
+  margin-left: 550px;
+  font-size: 25px;
+  background-color: wheat;
+  margin-right: 500px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.unordered_list{
+  text-align: none;
+  margin-left: 550px;
+  font-size: 25px;
+  background-color: azure;
+  margin-right: 500px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.exp{
+  text-align: center;
+  font-size: 30px;
+  background-color: chocolate;
 }
